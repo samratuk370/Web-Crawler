@@ -74,5 +74,5 @@ npm run test
 
 ## 🧠 Author
 
-Built with ❤️ for Sykell test task  
+Built for Sykell test task  
 [GitHub Profile](https://github.com/samratuk370)
